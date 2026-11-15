@@ -7,3 +7,8 @@ I enjoy working with Flutter, Python, Firebase, and AI technologies. I've built 
 I also have experience in electronics quality control, which has helped me develop an eye for detail, analytical thinking, and a practical approach to problem-solving.
 
 Beyond coding, I love art, music, exploring creative ideas, and finding inspiration in nature and the vastness of space. I believe there's always something new to learn, create, or discover!
+
+Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-shinde-4063a61a9/)
+
